@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\bin\Debug\net8.0\StrongPassGenerator.exe
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\bin\Debug\net8.0\StrongPassGenerator.deps.json
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\bin\Debug\net8.0\StrongPassGenerator.runtimeconfig.json
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\bin\Debug\net8.0\StrongPassGenerator.dll
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\bin\Debug\net8.0\StrongPassGenerator.pdb
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\net8.0\StrongPassGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\net8.0\StrongPassGenerator.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\net8.0\StrongPassGenerator.AssemblyInfo.cs
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\net8.0\StrongPassGenerator.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\net8.0\StrongPassGenerator.dll
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\net8.0\refint\StrongPassGenerator.dll
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\net8.0\StrongPassGenerator.pdb
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\net8.0\StrongPassGenerator.genruntimeconfig.cache
+C:\Users\vinic\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\net8.0\ref\StrongPassGenerator.dll
